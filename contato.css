@@ -1,0 +1,20 @@
+.main__contato {
+    margin-left: 1%;
+}
+
+@media screen and (max-width: 1024px){
+
+    .caixa,main{
+        width: auto;
+        margin: 0 2%;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    nav{
+        position: static;
+        text-align: center;
+    }
+}

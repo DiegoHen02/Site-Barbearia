@@ -1,0 +1,28 @@
+@media screen and (max-width: 1024px){
+
+    .caixa,.produtos{
+        width: auto;
+    }
+
+    h1{
+
+        text-align: center;
+    }
+
+    nav{
+
+        position: static;
+        text-align: center;
+    }
+
+    .produtos{
+
+        margin: 0 2%;
+    }
+
+    .produtos li{
+
+        width:100%;
+        margin:auto;
+    }
+}
